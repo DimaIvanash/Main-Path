@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/feed-form.sass"
+    ],
+    "names": [],
+    "file": "feed-form.min.css"
+}
