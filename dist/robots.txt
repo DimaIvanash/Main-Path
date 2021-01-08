@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /administrator
+Sitemap: http://mainpath.ru/sitemap.xml
+Host: mainpath.ru
